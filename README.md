@@ -27,9 +27,9 @@
 <img src="https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=github">
 <img src="https://img.shields.io/badge/markdown-090909?style=for-the-badge&logo=markdown">
 <img src="https://img.shields.io/badge/VS Code-090909?style=for-the-badge&logo=visualstudiocode&logoColor=2965f1">
-<img src="https://img.shields.io/badge/Canva-090909?style=for-the-badge&logo=canva"><img src="https://img.shields.io/badge/yoptascript-090909?style=for-the-badge&logo=starship"></a>
-<img src="https://img.shields.io/badge/linux-090909?style=for-the-badge&logo=linux&logoColor=fff"></a>
-<img src="https://img.shields.io/badge/archlinux-090909?style=for-the-badge&logo=archlinux"></a>
+<a href="https://yopta.space"><img src="https://img.shields.io/badge/yoptascript-090909?style=for-the-badge&logo=starship"></a>
+<img src="https://img.shields.io/badge/linux-090909?style=for-the-badge&logo=linux&logoColor=fff">
+<img src="https://img.shields.io/badge/archlinux-090909?style=for-the-badge&logo=archlinux">
 </p>
 
 ---
