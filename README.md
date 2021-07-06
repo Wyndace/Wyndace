@@ -48,6 +48,7 @@
 
 <h3 align=center><b>Github Analytics</b></h3>
 
-<div style="margin-top: 20px; display: flex; justify-content: space-evenly">
-<img style="width: 420px;" src="https://github-readme-stats.vercel.app/api?username=wyndace&show_icons=true&theme=vision-friendly-dark"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyndace&layout=compact&theme=vision-friendly-dark">
-</div>
+<p align=center style="margin-top: 20px;">
+<img height="180em" align=left src="https://github-readme-stats.vercel.app/api?username=wyndace&show_icons=true&theme=vision-friendly-dark">
+<img height="180em" align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyndace&layout=compact&theme=vision-friendly-dark">
+</p>
