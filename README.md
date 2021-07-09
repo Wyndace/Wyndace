@@ -31,6 +31,8 @@
 <img src="https://img.shields.io/badge/linux-090909?style=for-the-badge&logo=linux&logoColor=fff">
 <img src="https://img.shields.io/badge/archlinux-090909?style=for-the-badge&logo=archlinux">
 <img src="https://img.shields.io/badge/pug-090909?style=for-the-badge&logo=pug">
+<img src="https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=SQLite">
+<img src="https://img.shields.io/badge/apache-090909?style=for-the-badge&logo=Apache">
 </p>
 
 ---
