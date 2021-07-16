@@ -33,6 +33,7 @@
 <img src="https://img.shields.io/badge/pug-090909?style=for-the-badge&logo=pug">
 <img src="https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=SQLite">
 <img src="https://img.shields.io/badge/apache-090909?style=for-the-badge&logo=Apache">
+<img src="https://img.shields.io/badge/gulp-090909?style=for-the-badge&logo=gulp">
 </p>
 
 ---
