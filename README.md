@@ -9,7 +9,7 @@
 <a href="https://discord.com/users/Wyndace" target="blank"><img src="https://img.shields.io/badge/discord-090909?style=for-the-badge&logo=discord"></a>
 <a href="https://www.youtube.com/channel/UCGZ86GbjrqJbasHEjHdWC3w" target="blank"><img src="https://img.shields.io/badge/youtube-090909?style=for-the-badge&logo=youtube&logoColor=FF0000"></a>
 <a href="https://steamcommunity.com/id/stylelifeweb-wyndace/" target="blank"><img src="https://img.shields.io/badge/steam-090909?style=for-the-badge&logo=steam"></a>
-<a href="https://freelance.habr.com/freelancers/Wyndace" target="blank"><img src="https://img.shields.io/badge/weblancer-090909?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAu0lEQVR4Ad2XsQ3CMBBFPUpGS5yBqGyzheloHF3PEKyQESAGfdqTDuPz8aRfJcl7chPFVWZK01oS+S3svsTHr7eWmKvzI4e478L+ivDbOfeWY0sJ5LTkOAU2AEjv454fNUAuAJx4tABeyMOLbQVg32I3oDEGA7DWQvsB0hBgJwA0Dhk2gN/lfmty5OIAROgEyD+/fx/AXLcfIH+xqQD8lunMLSWRYkB28/U0aZzCcjir21XeETH3Eh8jyJ9UgxgcdzUb4gAAAABJRU5ErkJggg=="></a>
+<a href="https://freelance.habr.com/freelancers/Wyndace" target="blank"><img src="https://img.shields.io/badge/habr%20freelance-090909?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAu0lEQVR4Ad2XsQ3CMBBFPUpGS5yBqGyzheloHF3PEKyQESAGfdqTDuPz8aRfJcl7chPFVWZK01oS+S3svsTHr7eWmKvzI4e478L+ivDbOfeWY0sJ5LTkOAU2AEjv454fNUAuAJx4tABeyMOLbQVg32I3oDEGA7DWQvsB0hBgJwA0Dhk2gN/lfmty5OIAROgEyD+/fx/AXLcfIH+xqQD8lunMLSWRYkB28/U0aZzCcjir21XeETH3Eh8jyJ9UgxgcdzUb4gAAAABJRU5ErkJggg=="></a>
 
 ---
 
