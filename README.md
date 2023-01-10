@@ -1,6 +1,6 @@
 <h2 align=center> Hello, Visitor <img style="margin-left: 5px;" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><br>I'm Alexander from Russia <img height="25px" src="https://github.com/Wyndace/Wyndace/blob/main/ru_flag.png"></h2>
 
-<h3 align=center><b>CTF Player | Pythonista | Freelancer</b></h3>
+<h3 align=center><b>Web developer | Pythonista | Freelancer</b></h3>
 
 <p align=center style="margin-top:15px;">
 <a href="https://vk.com/stylelifeweb.wyndace" target="blank"><img src="https://img.shields.io/badge/VKontakte-090909?style=for-the-badge&logo=vk"></a>
