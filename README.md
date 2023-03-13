@@ -36,6 +36,8 @@
 <img src="https://img.shields.io/badge/apache-090909?style=for-the-badge&logo=Apache">
 <img src="https://img.shields.io/badge/gulp-090909?style=for-the-badge&logo=gulp">
 <img src="https://img.shields.io/badge/notion-090909?style=for-the-badge&logo=notion">
+<img src="https://img.shields.io/badge/neovim-090909?style=for-the-badge&logo=Neovim">
+<img src="https://img.shields.io/badge/go-090909?style=for-the-badge&logo=Go">
 </p>
 
 ---
