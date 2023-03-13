@@ -56,5 +56,5 @@
 <h3 align=center><b>Github Analytics</b></h3>
 
 <p align=center style="margin-top: 20px;">
-<img height="160em" align=left src="https://github-readme-stats.vercel.app/api?username=wyndace&show_icons=true&theme=vision-friendly-dark&custom_title=Wyndace's GitHb Stats"><img height="160em" align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyndace&layout=compact&theme=vision-friendly-dark">
+<img height="160em" align=left src="https://github-readme-stats.vercel.app/api?username=wyndace&show_icons=true&theme=vision-friendly-dark&custom_title=Wyndace's%20GitHb%20Stats"><img height="160em" align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyndace&layout=compact&theme=vision-friendly-dark">
 </p>
